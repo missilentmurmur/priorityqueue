@@ -1,0 +1,17 @@
+{
+  "name": "priorityqueue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/missilentmurmur/priorityqueue.git",
+  "author": "missilentmurmur <szabrea@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^7.0.0"
+  },
+  "scripts": {
+      "test": "mocha test/heap.test.js"
+  }
+}
